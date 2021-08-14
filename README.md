@@ -2,6 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=YogaPan)
 
+- 👨‍💻 I'm a front-end developer
+- 👀 I'm currently looking for a job
+- ☁️ I'm currently learning GCP
+- 🎸 Fun Fact: I love to play guitar and bass (of course, using pick is illegal)
+- 💪 2021 Goal: write blog post every month
+
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,9 +24,12 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## Tech Blog
+## 📚 Latest Blog Posts
 
-[![Galtz's Blog](https://img.shields.io/badge/Galtz%27s%20Blog-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://galtz.netlify.app)
+- [CSS 設定子元素間距的方法](https://galtz.netlify.app/css-gap/)
+- [用 Lerna 管理共同前端設定，並透過 Github Actions 自動發布至 npm](https://galtz.netlify.app/f2e-common-config/)
+- [youtube-dl 筆記](https://galtz.netlify.app/youtube-dl-note/)
+- [Web 技術「學習方法和過程」經驗分享](https://galtz.netlify.app/web-learning-sharing/)
 
 除了前端開發文章外，還會不定期分享有趣、好玩的音樂相關知識！
 
@@ -36,19 +45,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YogaPan&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YogaPan&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YogaPan&theme=solarized_dark)
-
-
-<!--
-**YogaPan/YogaPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
