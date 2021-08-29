@@ -26,6 +26,7 @@
 
 ## 📚 Latest Blog Posts
 
+- [How to Deploy Static Site to GCP Cloud Run](https://galtz.netlify.app/gcp-static-site/)
 - [CSS 設定子元素間距的方法](https://galtz.netlify.app/css-gap/)
 - [用 Lerna 管理共同前端設定，並透過 Github Actions 自動發布至 npm](https://galtz.netlify.app/f2e-common-config/)
 - [youtube-dl 筆記](https://galtz.netlify.app/youtube-dl-note/)
