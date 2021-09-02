@@ -26,11 +26,13 @@
 
 ## 📚 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
 - [How to Deploy Static Site to GCP Cloud Run](https://galtz.netlify.app/gcp-static-site/)
 - [CSS 設定子元素間距的方法](https://galtz.netlify.app/css-gap/)
 - [用 Lerna 管理共同前端設定，並透過 Github Actions 自動發布至 npm](https://galtz.netlify.app/f2e-common-config/)
 - [youtube-dl 筆記](https://galtz.netlify.app/youtube-dl-note/)
 - [Web 技術「學習方法和過程」經驗分享](https://galtz.netlify.app/web-learning-sharing/)
+<!-- BLOG-POST-LIST:END -->
 
 除了前端開發文章外，還會不定期分享有趣、好玩的音樂相關知識！
 
@@ -40,9 +42,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/昱嘉-潘-5a7927ab/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galtz0321@gmail.com)
-
-<br />
-<br />
 
 ## Github Summary
 
