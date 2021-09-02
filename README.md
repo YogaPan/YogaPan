@@ -34,10 +34,15 @@
 
 除了前端開發文章外，還會不定期分享有趣、好玩的音樂相關知識！
 
+➡️ [more blog posts...](https://galtz.netlify.app)
+
 ## Reach me on
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/昱嘉-潘-5a7927ab/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galtz0321@gmail.com)
+
+<br />
+<br />
 
 ## Github Summary
 
