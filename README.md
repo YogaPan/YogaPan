@@ -34,7 +34,7 @@
 - [Web 技術「學習方法和過程」經驗分享](https://galtz.netlify.app/web-learning-sharing/)
 <!-- BLOG-POST-LIST:END -->
 
-除了前端開發文章外，還會不定期分享有趣、好玩的音樂相關知識！
+除了前端開發文章外，還會不定期分享好吃新奇又好玩的音樂知識！
 
 ➡️ [more blog posts...](https://galtz.netlify.app)
 
